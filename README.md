@@ -36,7 +36,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/dennisavk/fraud_detection_project.git
+git clone https://github.com/dennisavk/Fraud-Detection-System-with-Random-Forest-Classifier
 Set up a Python virtual environment (optional but recommended):
 
 bash
